@@ -16,7 +16,7 @@ aryan = {
     "degree"       : "M.S. Computer Science @ NYU 🗽  |  GPA: 3.9 / 4.0",
     "graduating"   : "May 2027",
     "experience"   : "3+ years — SDE2 @ Synopsys, Intern @ Ericsson",
-    "open_to"      : ["Aspiring Applied AI/ML Engineer", "Aspiring Systems Engineer"],
+    "open_to"      : ["Applied AI/ML Engineer", "Systems Engineer", "Software Development Engineer"],
     "interests"    : ["LLMs & Agents", "RAG Pipelines", "Distributed Systems", "MLOps"],
     "off_hours"    : "if not coding: gym() or sports(random.choice(['🏸', '🏃', '📖']))",
 }
