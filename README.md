@@ -101,7 +101,58 @@ aryan = {
 
 ---
 
-## 🚀 Projects
+## 🌟 Spotlight
+
+<p align="center"><i>The builds I'm proudest of: agents, fine-tuned models and the systems that run them.</i></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/justgoofingaround/ansys-tutoring-app">Ansys Tutoring System</a></h3>
+<p><b>An AI tutor that sits on top of Ansys and walks students through each step</b></p>
+<ul><li>Funded by an NYU <i>AI in Education</i> seed grant, with a pilot planned for Fall 2026</li><li>Runs its RAG assistant on local Ollama, so no student data leaves NYU</li></ul>
+<p><sub>🧰 FastAPI · React · SQLite · Ollama · Docker</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎨 <a href="https://github.com/justgoofingaround/text-to-svg-generation">Text → SVG</a></h3>
+<p><b>Turns a plain-English sentence into a valid, renderable SVG</b></p>
+<ul><li>LoRA (r=128) fine-tune of Qwen2.5-Coder-1.5B in 4-bit NF4</li><li>vLLM sampling at several temperatures, with automatic XML repair</li></ul>
+<p><sub>🧰 PyTorch · PEFT · vLLM · Hugging Face</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>👁️ <a href="https://github.com/justgoofingaround/pixels-to-predictions">Pixels to Predictions</a></h3>
+<p><b>Teaches a 500M vision-language model to answer questions about images</b></p>
+<ul><li>DoRA adapter trains only 4.6M params (0.9% of the model)</li><li>80.4% accuracy by scoring answer letters on token log-probs</li></ul>
+<p><sub>🧰 PyTorch · Transformers · PEFT · SmolVLM</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>🐋 <a href="https://github.com/justgoofingaround/OrcaFlow">OrcaFlow</a></h3>
+<p><b>Mission control for submitting, watching and cancelling real Spark jobs</b></p>
+<ul><li>REST API that manages the full lifecycle of each PySpark job</li><li>Live dashboard for CPU/memory, the job queue and progress, tested on 100K+ records</li></ul>
+<p><sub>🧰 Rust · PySpark · FastAPI</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚦 <a href="https://github.com/justgoofingaround/smart-signal">Smart Signal</a></h3>
+<p><b>A traffic light that decides for itself how long each green lasts</b></p>
+<ul><li>Perceive → decide → act agent loop driven by camera-based vehicle detection</li><li>Ambulance priority override, benchmarked against a fixed-time controller</li></ul>
+<p><sub>🧰 Python · OpenCV · Pygame</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎼 <a href="https://github.com/justgoofingaround/music-scaling-laws">Music Scaling Laws</a></h3>
+<p><b>Do LLM scaling laws still hold when the language is music?</b></p>
+<ul><li>Trains five GPT sizes (tiny → XL) against LSTMs on ABC notation</li><li>Fits the scaling curves, then generates music with the best model</li></ul>
+<p><sub>🧰 PyTorch · GPT · LSTM</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ All Projects by Category
 
 ### 🤖 Agentic AI & RAG
 
