@@ -101,7 +101,7 @@ aryan = {
 
 ---
 
-## 🛠️ Things I've Built
+## 🚀 Things I've Built
 
 ### 🤖 Agentic AI & RAG
 
