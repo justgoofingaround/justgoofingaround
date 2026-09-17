@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+AI%2FML+%26+Systems+Engineer;Open+to+Full-Time+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+Software+Engineer;Open+to+Full-Time+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=justgoofingaround&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
@@ -86,20 +86,32 @@ aryan = {
 
 ## 🚀 Things I've Built
 
-| Category | Projects |
-|--|--|
-| **🤖 Agentic AI & RAG** | [Smart Signal](https://github.com/justgoofingaround/smart-signal "Autonomous agent that controls a 4-way traffic signal") · [NaviCare](https://github.com/justgoofingaround/NaviCare "Multi-agent RAG healthcare navigation platform") · [Ross MD](https://github.com/justgoofingaround/rossMD "Seven-agent healthcare regulatory legal team") · [Flano](https://github.com/justgoofingaround/Flano-NYU "Real-time NYU campus discovery app with an AI event assistant") · [Ansys Tutor](https://github.com/justgoofingaround/ansys-tutoring-app "AI tutor overlay for Ansys with a local RAG assistant") · [LLM Chatbot](https://github.com/justgoofingaround/LLM-Based-Chatbot "ChatGPT-style app with chat history and image generation") |
-| **⚡ ML Systems & Inference** | 🚧 *Coming soon* |
-| **🧠 LLM Fine-Tuning & Multimodal** | [Pixels to Predictions](https://github.com/justgoofingaround/pixels-to-predictions "DoRA fine-tune of SmolVLM-500M for visual question answering") · [Text → SVG](https://github.com/justgoofingaround/text-to-svg-generation "LoRA fine-tuned Qwen2.5-Coder that generates SVG from text") · [Music Scaling Laws](https://github.com/justgoofingaround/music-scaling-laws "Scaling laws for GPT vs. LSTM music generation") |
-| **🔁 MLOps & LLMOps** | 🚧 *Coming soon* |
-| **🧪 AI Evaluation & Safety** | 🚧 *Coming soon* |
-| **⚙️ Distributed Systems & Data** | [OrcaFlow](https://github.com/justgoofingaround/OrcaFlow "Submit, monitor and run Apache Spark jobs with a live dashboard") |
-| **☁️ Cloud-Native Backend** | 🚧 *Coming soon* |
-| **🌐 Full-Stack & Web Apps** | [Data Modelling WebApp](https://github.com/justgoofingaround/WebApp-for-Data-Modelling "Flask app to summarize, visualize and model datasets") · [TOPSIS](https://github.com/justgoofingaround/TOPSIS "Python package for the TOPSIS decision method") · [Resume in HTML](https://github.com/justgoofingaround/Resume-in-HTML "My resume, built in HTML") |
-| **📊 Classic ML & Computer Vision** | [Fake News Detector](https://github.com/justgoofingaround/Fake-New-Detector "Fake news classifier") · [YouTube Spam Detector](https://github.com/justgoofingaround/Spam-Detector-for-YouTube-Comments "Spam detection for YouTube comments") · [Facial Recognition](https://github.com/justgoofingaround/Facial-Recognition "Face recognition in Python") · [Grayscale Cam](https://github.com/justgoofingaround/Basic-Grayscale "Live webcam feed to grayscale") · [Digit Tracker](https://github.com/justgoofingaround/digit-tracker "Recognizes digits you draw") |
-| **🧩 DSA** | [HackerRank 6★](https://github.com/justgoofingaround/6-star-problem_solving-hackerrank "6-star HackerRank solutions in C++") |
-
-<sub>💡 Hover over a project to see what it does.</sub>
+<table>
+<tr><th>Category</th><th>Project</th><th>What it does</th></tr>
+<tr><td rowspan="6"><b>🤖 Agentic AI & RAG</b></td><td><a href="https://github.com/justgoofingaround/smart-signal"><b>Smart Signal</b></a></td><td>Autonomous agent that adjusts traffic-light timing from camera-based vehicle detection, with ambulance priority</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/NaviCare"><b>NaviCare</b></a></td><td>Multi-agent RAG platform that matches symptoms and insurance to doctors and pharmacies</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/rossMD"><b>Ross MD</b></a></td><td>Seven-agent healthcare regulatory team that researches a case and drafts cited appeal packets</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/Flano-NYU"><b>Flano</b></a></td><td>Real-time NYU campus discovery app with match scoring and an AI event assistant</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/ansys-tutoring-app"><b>Ansys Tutor</b></a></td><td>AI tutor overlay that guides students through Ansys, with a local RAG assistant</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/LLM-Based-Chatbot"><b>LLM Chatbot</b></a></td><td>ChatGPT-style web app with chat history, data analysis and image generation</td></tr>
+<tr><td rowspan="1"><b>⚡ ML Systems & Inference</b></td><td>🚧 <i>Coming soon</i></td><td>LLM serving, quantization, CUDA/Triton kernels and GPU performance tuning</td></tr>
+<tr><td rowspan="3"><b>🧠 LLM Fine-Tuning & Multimodal</b></td><td><a href="https://github.com/justgoofingaround/pixels-to-predictions"><b>Pixels to Predictions</b></a></td><td>DoRA fine-tune of SmolVLM-500M for visual question answering, training only 0.9% of params</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/text-to-svg-generation"><b>Text → SVG</b></a></td><td>LoRA fine-tuned Qwen2.5-Coder that turns text descriptions into valid SVG</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/music-scaling-laws"><b>Music Scaling Laws</b></a></td><td>Empirical study of scaling laws in GPT vs. LSTM models for music generation</td></tr>
+<tr><td rowspan="1"><b>🔁 MLOps & LLMOps</b></td><td>🚧 <i>Coming soon</i></td><td>Training, deployment and monitoring pipelines, and CI/CD for ML</td></tr>
+<tr><td rowspan="1"><b>🧪 AI Evaluation & Safety</b></td><td>🚧 <i>Coming soon</i></td><td>LLM eval harnesses, guardrails and hallucination detection</td></tr>
+<tr><td rowspan="1"><b>⚙️ Distributed Systems & Data</b></td><td><a href="https://github.com/justgoofingaround/OrcaFlow"><b>OrcaFlow</b></a></td><td>Submit, monitor and run Apache Spark jobs through a REST API and live dashboard</td></tr>
+<tr><td rowspan="1"><b>☁️ Cloud-Native Backend</b></td><td>🚧 <i>Coming soon</i></td><td>Scalable APIs, event-driven Kafka services and Kubernetes deployments</td></tr>
+<tr><td rowspan="3"><b>🌐 Full-Stack & Web Apps</b></td><td><a href="https://github.com/justgoofingaround/WebApp-for-Data-Modelling"><b>Data Modelling WebApp</b></a></td><td>Flask app to upload datasets, then summarize, visualize and model them</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/TOPSIS"><b>TOPSIS</b></a></td><td>Python package implementing the TOPSIS decision-making method</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/Resume-in-HTML"><b>Resume in HTML</b></a></td><td>My resume, built in HTML</td></tr>
+<tr><td rowspan="5"><b>📊 Classic ML & Computer Vision</b></td><td><a href="https://github.com/justgoofingaround/Fake-New-Detector"><b>Fake News Detector</b></a></td><td>Classifier that flags fake news articles</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/Spam-Detector-for-YouTube-Comments"><b>YouTube Spam Detector</b></a></td><td>Spam detection for YouTube comments</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/Facial-Recognition"><b>Facial Recognition</b></a></td><td>Face recognition in Python</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/Basic-Grayscale"><b>Grayscale Cam</b></a></td><td>Converts a live webcam feed to grayscale frames</td></tr>
+<tr><td><a href="https://github.com/justgoofingaround/digit-tracker"><b>Digit Tracker</b></a></td><td>Flask app that recognizes digits you draw on a canvas</td></tr>
+<tr><td rowspan="1"><b>🧩 DSA</b></td><td><a href="https://github.com/justgoofingaround/6-star-problem_solving-hackerrank"><b>HackerRank 6★</b></a></td><td>6-star HackerRank problem-solving solutions in C++</td></tr>
+</table>
 
 ---
 
