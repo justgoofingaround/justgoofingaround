@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+AI%2FML+%26+Systems+Engineer;Open+to+Summer+2026+Internships+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+AI%2FML+%26+Systems+Engineer;Open+to+Full-Time+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=justgoofingaround&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
@@ -15,8 +15,8 @@
 aryan = {
     "degree"       : "M.S. Computer Science @ NYU 🗽  |  GPA: 3.9 / 4.0",
     "graduating"   : "May 2027",
-    "experience"   : "3+ years — SDE2 @ Synopsys, Intern @ Ericsson",
-    "open_to"      : ["Applied AI/ML Engineer", "Systems Engineer", "Software Development Engineer"],
+    "experience"   : "3+ years — ex-SDE2 @ Synopsys, Intern @ Ericsson",
+    "open_to"      : "Full-time opportunities 💼 — Applied AI/ML Engineer, Systems Engineer, SDE",
     "interests"    : ["LLMs & Agents", "RAG Pipelines", "Distributed Systems", "MLOps"],
     "off_hours"    : "if not coding: gym() or sports(random.choice(['🏸', '🏃', '📖']))",
 }
@@ -30,7 +30,7 @@ aryan = {
 |--|--|
 | 🔭 | Exploring **multi-agent LLM architectures** and agentic reasoning |
 | 🌱 | Deep-diving into **MCP, LangGraph, and real-time ML pipelines** |
-| 🎯 | Seeking **Summer 2026 internships** in AI/ML & Backend Engineering |
+| 🎯 | Open to **full-time opportunities** in AI/ML & Backend Engineering |
 | 💬 | Ask me about **AI Agents, RAG, distributed systems, microservices, or ETL pipelines** |
 | 📬 | Reach me at **yaryan2k@gmail.com** |
 
@@ -84,96 +84,22 @@ aryan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=justgoofingaround&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justgoofingaround&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=justgoofingaround&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Things I've Built
 
-### 🤖 Agentic AI & RAG
-
-| Project | What it does |
+| Category | Projects |
 |--|--|
-| [**smart-signal**](https://github.com/justgoofingaround/smart-signal) | Autonomous agent that controls a 4-way traffic signal using camera-based vehicle detection |
-| [**NaviCare**](https://github.com/justgoofingaround/NaviCare) | Multi-agent RAG platform that matches symptoms and insurance to doctors and pharmacies |
-| [**ansys-tutoring-app**](https://github.com/justgoofingaround/ansys-tutoring-app) | Tutoring platform for Ansys Mechanical with activity tracking, quizzes and a context-aware chatbot |
-| [**LLM-Based-Chatbot**](https://github.com/justgoofingaround/LLM-Based-Chatbot) | ChatGPT-style web app with chat history, data analysis and image generation |
+| **🤖 Agentic AI & RAG** | [Smart Signal](https://github.com/justgoofingaround/smart-signal "Autonomous agent that controls a 4-way traffic signal") · [NaviCare](https://github.com/justgoofingaround/NaviCare "Multi-agent RAG healthcare navigation platform") · [Ross MD](https://github.com/justgoofingaround/rossMD "Seven-agent healthcare regulatory legal team") · [Flano](https://github.com/justgoofingaround/Flano-NYU "Real-time NYU campus discovery app with an AI event assistant") · [Ansys Tutor](https://github.com/justgoofingaround/ansys-tutoring-app "AI tutor overlay for Ansys with a local RAG assistant") · [LLM Chatbot](https://github.com/justgoofingaround/LLM-Based-Chatbot "ChatGPT-style app with chat history and image generation") |
+| **⚡ ML Systems & Inference** | 🚧 *Coming soon* |
+| **🧠 LLM Fine-Tuning & Multimodal** | [Pixels to Predictions](https://github.com/justgoofingaround/pixels-to-predictions "DoRA fine-tune of SmolVLM-500M for visual question answering") · [Text → SVG](https://github.com/justgoofingaround/text-to-svg-generation "LoRA fine-tuned Qwen2.5-Coder that generates SVG from text") · [Music Scaling Laws](https://github.com/justgoofingaround/music-scaling-laws "Scaling laws for GPT vs. LSTM music generation") |
+| **🔁 MLOps & LLMOps** | 🚧 *Coming soon* |
+| **🧪 AI Evaluation & Safety** | 🚧 *Coming soon* |
+| **⚙️ Distributed Systems & Data** | [OrcaFlow](https://github.com/justgoofingaround/OrcaFlow "Submit, monitor and run Apache Spark jobs with a live dashboard") |
+| **☁️ Cloud-Native Backend** | 🚧 *Coming soon* |
+| **🌐 Full-Stack & Web Apps** | [Data Modelling WebApp](https://github.com/justgoofingaround/WebApp-for-Data-Modelling "Flask app to summarize, visualize and model datasets") · [TOPSIS](https://github.com/justgoofingaround/TOPSIS "Python package for the TOPSIS decision method") · [Resume in HTML](https://github.com/justgoofingaround/Resume-in-HTML "My resume, built in HTML") |
+| **📊 Classic ML & Computer Vision** | [Fake News Detector](https://github.com/justgoofingaround/Fake-New-Detector "Fake news classifier") · [YouTube Spam Detector](https://github.com/justgoofingaround/Spam-Detector-for-YouTube-Comments "Spam detection for YouTube comments") · [Facial Recognition](https://github.com/justgoofingaround/Facial-Recognition "Face recognition in Python") · [Grayscale Cam](https://github.com/justgoofingaround/Basic-Grayscale "Live webcam feed to grayscale") · [Digit Tracker](https://github.com/justgoofingaround/digit-tracker "Recognizes digits you draw") |
+| **🧩 DSA** | [HackerRank 6★](https://github.com/justgoofingaround/6-star-problem_solving-hackerrank "6-star HackerRank solutions in C++") |
 
-### ⚡ ML Systems & Inference Optimization
-
-| Project | What it does |
-|--|--|
-| 🚧 *Coming soon* | LLM serving, quantization, custom CUDA/Triton kernels and GPU performance tuning |
-
-### 🧠 LLM Fine-Tuning & Multimodal AI
-
-| Project | What it does |
-|--|--|
-| [**pixels-to-predictions**](https://github.com/justgoofingaround/pixels-to-predictions) | SmolVLM-500M fine-tuned with a DoRA adapter (<5M params) for multimodal VQA |
-| [**text-to-svg-generation**](https://github.com/justgoofingaround/text-to-svg-generation) | LoRA fine-tuned Qwen2.5-Coder that turns text descriptions into valid SVG |
-| [**music-scaling-laws**](https://github.com/justgoofingaround/music-scaling-laws) | Empirical study of scaling laws in GPT vs. LSTM models for music generation |
-
-### 🔁 MLOps & LLMOps
-
-| Project | What it does |
-|--|--|
-| 🚧 *Coming soon* | Model training, deployment and monitoring pipelines, feature stores and CI/CD for ML |
-
-### 🧪 AI Evaluation & Safety
-
-| Project | What it does |
-|--|--|
-| 🚧 *Coming soon* | LLM eval harnesses, guardrails, hallucination detection and red-teaming |
-
-### ⚙️ Distributed Systems & Data Infrastructure
-
-| Project | What it does |
-|--|--|
-| [**OrcaFlow**](https://github.com/justgoofingaround/OrcaFlow) | Rust system for submitting, monitoring and running Apache Spark jobs, with a live analytics dashboard |
-
-### ☁️ Cloud-Native Backend & Microservices
-
-| Project | What it does |
-|--|--|
-| 🚧 *Coming soon* | Scalable APIs, event-driven services with Kafka, and Kubernetes deployments |
-
-### 🌐 Full-Stack & Hackathons
-
-| Project | What it does |
-|--|--|
-| [**Flano-NYU**](https://github.com/justgoofingaround/Flano-NYU) | Real-time campus matching engine (NYU PULSE NYC Nexus hackathon) |
-| [**WebApp-for-Data-Modelling**](https://github.com/justgoofingaround/WebApp-for-Data-Modelling) | Flask app to upload datasets, then summarize, visualize and model them |
-| [**TOPSIS**](https://github.com/justgoofingaround/TOPSIS) | Python package implementing the TOPSIS decision-making method |
-| [**Resume-in-HTML**](https://github.com/justgoofingaround/Resume-in-HTML) | My resume, built in HTML |
-
-### 📊 Classic ML & Computer Vision
-
-| Project | What it does |
-|--|--|
-| [**Fake-New-Detector**](https://github.com/justgoofingaround/Fake-New-Detector) | Classifier that flags fake news articles |
-| [**Spam-Detector-for-YouTube-Comments**](https://github.com/justgoofingaround/Spam-Detector-for-YouTube-Comments) | Spam detection for YouTube comments |
-| [**Facial-Recognition**](https://github.com/justgoofingaround/Facial-Recognition) | Face recognition in Python |
-| [**Basic-Grayscale**](https://github.com/justgoofingaround/Basic-Grayscale) | Converts a live webcam feed to grayscale frames |
-| [**digit-tracker**](https://github.com/justgoofingaround/digit-tracker) | Flask app that recognizes digits you draw on a canvas |
-
-### 🧩 DSA & Problem Solving
-
-| Project | What it does |
-|--|--|
-| [**6-star-problem_solving-hackerrank**](https://github.com/justgoofingaround/6-star-problem_solving-hackerrank) | HackerRank 6-star problem-solving solutions in C++ |
+<sub>💡 Hover over a project to see what it does.</sub>
 
 ---
 
