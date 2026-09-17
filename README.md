@@ -101,13 +101,79 @@ aryan = {
 
 ---
 
-## 🎵 Spotify — What I'm Listening To
+## 🚀 Projects
 
-<div align="center">
+### 🤖 Agentic AI & RAG
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31a6t3q4x2sk6vvzcvpiolrdu4jy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+| Project | What it does |
+|--|--|
+| [**smart-signal**](https://github.com/justgoofingaround/smart-signal) | Autonomous agent that controls a 4-way traffic signal using camera-based vehicle detection |
+| [**NaviCare**](https://github.com/justgoofingaround/NaviCare) | Multi-agent RAG platform that matches symptoms and insurance to doctors and pharmacies |
+| [**ansys-tutoring-app**](https://github.com/justgoofingaround/ansys-tutoring-app) | Tutoring platform for Ansys Mechanical with activity tracking, quizzes and a context-aware chatbot |
+| [**LLM-Based-Chatbot**](https://github.com/justgoofingaround/LLM-Based-Chatbot) | ChatGPT-style web app with chat history, data analysis and image generation |
 
-</div>
+### ⚡ ML Systems & Inference Optimization
+
+| Project | What it does |
+|--|--|
+| 🚧 *Coming soon* | LLM serving, quantization, custom CUDA/Triton kernels and GPU performance tuning |
+
+### 🧠 LLM Fine-Tuning & Multimodal AI
+
+| Project | What it does |
+|--|--|
+| [**pixels-to-predictions**](https://github.com/justgoofingaround/pixels-to-predictions) | SmolVLM-500M fine-tuned with a DoRA adapter (<5M params) for multimodal VQA |
+| [**text-to-svg-generation**](https://github.com/justgoofingaround/text-to-svg-generation) | LoRA fine-tuned Qwen2.5-Coder that turns text descriptions into valid SVG |
+| [**music-scaling-laws**](https://github.com/justgoofingaround/music-scaling-laws) | Empirical study of scaling laws in GPT vs. LSTM models for music generation |
+
+### 🔁 MLOps & LLMOps
+
+| Project | What it does |
+|--|--|
+| 🚧 *Coming soon* | Model training, deployment and monitoring pipelines, feature stores and CI/CD for ML |
+
+### 🧪 AI Evaluation & Safety
+
+| Project | What it does |
+|--|--|
+| 🚧 *Coming soon* | LLM eval harnesses, guardrails, hallucination detection and red-teaming |
+
+### ⚙️ Distributed Systems & Data Infrastructure
+
+| Project | What it does |
+|--|--|
+| [**OrcaFlow**](https://github.com/justgoofingaround/OrcaFlow) | Rust system for submitting, monitoring and running Apache Spark jobs, with a live analytics dashboard |
+
+### ☁️ Cloud-Native Backend & Microservices
+
+| Project | What it does |
+|--|--|
+| 🚧 *Coming soon* | Scalable APIs, event-driven services with Kafka, and Kubernetes deployments |
+
+### 🌐 Full-Stack & Hackathons
+
+| Project | What it does |
+|--|--|
+| [**Flano-NYU**](https://github.com/justgoofingaround/Flano-NYU) | Real-time campus matching engine (NYU PULSE NYC Nexus hackathon) |
+| [**WebApp-for-Data-Modelling**](https://github.com/justgoofingaround/WebApp-for-Data-Modelling) | Flask app to upload datasets, then summarize, visualize and model them |
+| [**TOPSIS**](https://github.com/justgoofingaround/TOPSIS) | Python package implementing the TOPSIS decision-making method |
+| [**Resume-in-HTML**](https://github.com/justgoofingaround/Resume-in-HTML) | My resume, built in HTML |
+
+### 📊 Classic ML & Computer Vision
+
+| Project | What it does |
+|--|--|
+| [**Fake-New-Detector**](https://github.com/justgoofingaround/Fake-New-Detector) | Classifier that flags fake news articles |
+| [**Spam-Detector-for-YouTube-Comments**](https://github.com/justgoofingaround/Spam-Detector-for-YouTube-Comments) | Spam detection for YouTube comments |
+| [**Facial-Recognition**](https://github.com/justgoofingaround/Facial-Recognition) | Face recognition in Python |
+| [**Basic-Grayscale**](https://github.com/justgoofingaround/Basic-Grayscale) | Converts a live webcam feed to grayscale frames |
+| [**digit-tracker**](https://github.com/justgoofingaround/digit-tracker) | Flask app that recognizes digits you draw on a canvas |
+
+### 🧩 DSA & Problem Solving
+
+| Project | What it does |
+|--|--|
+| [**6-star-problem_solving-hackerrank**](https://github.com/justgoofingaround/6-star-problem_solving-hackerrank) | HackerRank 6-star problem-solving solutions in C++ |
 
 ---
 
