@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+Software+Engineer;Open+to+Full-Time+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=57068C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Aryan+Yadav+%F0%9F%91%8B;MSCS+%40+NYU+%7C+Aspiring+AI%2FML+%26+Software+Engineer;Open+to+Full-Time+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=justgoofingaround&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
@@ -16,7 +16,7 @@ aryan = {
     "degree"       : "M.S. Computer Science @ NYU 🗽  |  GPA: 3.9 / 4.0",
     "graduating"   : "May 2027",
     "experience"   : "3+ years — ex-SDE2 @ Synopsys, Intern @ Ericsson",
-    "open_to"      : "Full-time opportunities 💼 — Applied AI/ML Engineer, Systems Engineer, SDE",
+    "open_to"      : "Full-time opportunities 💼 — Applied AI/ML Engineer, SDE, SWE, Systems Engineer",
     "interests"    : ["LLMs & Agents", "RAG Pipelines", "Distributed Systems", "MLOps"],
     "off_hours"    : "if not coding: gym() or sports(random.choice(['🏸', '🏃', '📖']))",
 }
