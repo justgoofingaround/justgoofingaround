@@ -30,7 +30,7 @@ aryan = {
 |--|--|
 | 🔭 | Exploring **multi-agent LLM architectures** and agentic reasoning |
 | 🌱 | Deep-diving into **MCP, LangGraph, and real-time ML pipelines** |
-| 🎯 | Open to **full-time opportunities** in AI/ML & Backend Engineering |
+| 🎯 | Open to **full-time AI/ML & Software Engineering roles** starting **2027** |
 | 💬 | Ask me about **AI Agents, RAG, distributed systems, microservices, or ETL pipelines** |
 | 📬 | Reach me at **yaryan2k@gmail.com** |
 
